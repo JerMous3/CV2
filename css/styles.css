@@ -1,0 +1,23 @@
+body {
+    background-color:#EAF6F6;
+}
+
+h1 {
+    color: #66BFBF;
+    font: 1em Arial;
+    font-size: 100%;
+}
+h3 {
+    color: #66BFBF;
+    font: italic 1.2em "Fira Sans", serif;
+    font-size: 100%;
+}
+hr {
+    border-color: rgb(228, 146, 146);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    height: 0px;
+    width: 8%;
+   
+}
